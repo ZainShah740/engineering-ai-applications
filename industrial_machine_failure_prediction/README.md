@@ -1,4 +1,7 @@
 # Predictive Maintenance using Artificial Neural Network (ANN)
+💡 Tip: If GitHub is experiencing background rendering issues displaying the .ipynb notebook file, you can view the full project code, charts, and analysis cleanly via this external viewer link:
+
+👉 https://nbviewer.org/github/ZainShah740/engineering-ai-applications/blob/main/industrial_machine_failure_prediction/industrial_predictive_maintenance_ann.ipynb
 
 This project focuses on predictive maintenance for industrial machinery using an Artificial Neural Network (ANN). The goal is to proactively identify potential machine failures based on operational sensor data, enabling timely maintenance and reducing unplanned downtime.
 
