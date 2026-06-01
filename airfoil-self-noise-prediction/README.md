@@ -1,7 +1,7 @@
 # Airfoil Self-Noise Prediction using AI
+💡 Tip: If GitHub is experiencing background rendering issues displaying the .ipynb notebook file, you can view the full project code, charts, and analysis cleanly via this external viewer link:
 
-> 💡 **Tip:** If GitHub is experiencing background rendering issues displaying the `.ipynb` notebook file, you can view the full project code, charts, and analysis cleanly via the external viewer:  
-> 👉 **[Click Here to View the Interactive Project Notebook]([https://nbviewer.org/github/ZainShah740/engineering-ai-applications/blob/main/airfoil-self-noise-prediction/airfoil_self_noise_prediction.ipynb](https://nbviewer.org/github/ZainShah740/engineering-ai-applications/blob/main/airfoil-self-noise-prediction/airfoil_self_noise_prediction.ipynb))**
+👉 https://nbviewer.org/github/ZainShah740/engineering-ai-applications/blob/main/airfoil-self-noise-prediction/airfoil_self_noise_prediction.ipynb
 
 This project focuses on predicting airfoil self-noise using machine learning models, combining AI with engineering simulation insights. The goal is to provide engineers with a fast, reliable tool to estimate aerodynamic noise, reducing reliance on costly simulations and enabling design optimization.
 
